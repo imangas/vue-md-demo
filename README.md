@@ -1,4 +1,4 @@
-# eql
+# Vue MD Demo
 
 ## Project setup
 ```

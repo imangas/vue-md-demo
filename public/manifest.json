@@ -1,6 +1,6 @@
 {
-  "name": "eql",
-  "short_name": "eql",
+  "name": "vue-md-demo",
+  "short_name": "Vue MD Demo",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
